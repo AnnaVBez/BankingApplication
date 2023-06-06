@@ -1,2 +1,2 @@
 # Banking Application
-A simple console banking application that can show the balance, deposit, withdraw money and convert from one currency account to another currency account.
+Простое консольное банковское приложение, которое может отображать баланс, вносить, снимать деньги и конвертировать с одного валютного счета на другой валютный счет.
